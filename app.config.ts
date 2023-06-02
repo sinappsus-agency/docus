@@ -27,7 +27,8 @@ export default defineAppConfig({
       logo: true,
       showLinkIcon: true,
       exclude: [],
-      fluid: true
+      fluid: true,
+      title: 'Teljoy Wordpress documentation'
     },
     footer: {
       iconLinks: [
